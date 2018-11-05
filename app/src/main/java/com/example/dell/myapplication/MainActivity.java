@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        System.out.println("feature-1");
     }
 
     @Override
